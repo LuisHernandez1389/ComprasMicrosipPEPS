@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j193QonSP44FLvvGqIT0n/7Zy+ksywK6Jxn528zpvudO733XuGLegtGLlXayc14aOVoo8kwrKs/DIgE4O5IWUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luilm\\source\\repos\\COMPRAS\\COMPRAS\\COMPRAS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luilm\\.nuget\\packages\\firebirdsql.data.firebirdclient\\10.2.0\\firebirdsql.data.firebirdclient.10.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
